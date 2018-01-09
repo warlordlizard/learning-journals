@@ -1,0 +1,1 @@
+Today I pair coded with Melanie.  Everything went swimmingly.  we fiddled around with css for a good long while but the sturcture and methods were fast. we implemented percentages on some values instead of using pixels.
