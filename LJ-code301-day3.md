@@ -1,0 +1,1 @@
+Today me and Bessie worked together.  everything went well.  Had to look some stuff up.  Did not do a read less option (yet..maybe).  
